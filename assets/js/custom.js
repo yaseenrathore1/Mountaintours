@@ -6,7 +6,7 @@ $(document).ready(function(){
 
         /*==================================
 
-* Author        : "ThemeSine"
+
 
 * Template Name : Travel HTML Template
 
