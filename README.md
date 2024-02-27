@@ -1,29 +1,60 @@
-TourNest – Tours & Travel Agency HTML5 Template
--------------------------------------------------
-TourNest is an extraordinary HTML5 responsive website template for Tours and Travel Agency. Our UX designers specially designed it for travel agencies, tourism bureaus and tour operators. It offers a lot of value to you with stunning design and a great & awesome layout. It’s really good looking with bright colors and user engaging with a great user interface.
-TourNest has a special search box function for tour plans, flight booking, and hotel sections. So users will get benefited from tour planning to hotel booking through flight selection.<br>
-<a href="https://www.themesine.com/downloads/tournest-tours-travel-agency-html5-template/" target="_blank">Preview Link</a>
+# Mountain Tours in Pakistan
 
-We would love to see how you use this amazing html5 template. You can notify us about your site by sending a mail to us. We will write a blog post to showcase the best examples.
+## Table of Contents
+- [Introduction](#introduction)
+- [Popular Mountains in Pakistan](#popular-mountains-in-pakistan)
+- [Tour Packages](#tour-packages)
+- [Booking Information](#booking-information)
+- [Contact](#contact)
 
-Preview
---------
-![free travel agency responsive html template](https://cdn.dribbble.com/users/1914192/screenshots/4242909/tournest-travel-agency-responsive-html5-website-template-free-download-.jpg)
+## Introduction
 
-Demo site
----------
-<a href="http://demo.themesine.com/" rel="nofollow" target="_blank">Demo</a> 
+Welcome to our Mountain Tours in Pakistan! Explore the breathtaking beauty of the Himalayas, Karakoram, and Hindu Kush mountain ranges.
 
-Author
--------
-<a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+## Popular Mountains in Pakistan
 
-Other templates
----------------
-<a href="https://www.themesine.com/downloads/dashloon-bootstrap-admin-dashboard/" rel="nofollow" target="_blank">DashLoon admin template</a>
+1. **K2 (Mount Godwin-Austen):**
+   - The second-highest mountain in the world.
+   - Renowned for its challenging ascent.
 
-License
---------
-Copyright (c) 2018 ThemeSINE
+2. **Nanga Parbat:**
+   - Known as the "Killer Mountain."
+   - Offers stunning views and challenging climbing routes.
 
-TourNest is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that ThemeSINE is the original author of this template.
+3. **Rakaposhi:**
+   - Elegant pyramid-shaped peak.
+   - A favorite among trekkers and climbers.
+
+## Tour Packages
+
+### Standard Package
+- Guided trekking to base camps.
+- Campsite accommodations.
+- Experienced mountain guides.
+- Duration: 10 days.
+
+### Premium Package
+- Helicopter ride to base camps.
+- Deluxe mountain lodges.
+- Personalized tour itinerary.
+- Duration: 14 days.
+
+## Booking Information
+
+To book a mountain tour, please follow these steps:
+
+1. Choose your preferred tour package.
+2. Fill out the [booking form](link-to-booking-form).
+3. Make the required deposit.
+
+For more details on pricing and availability, check our [website](link-to-website).
+
+## Contact
+
+For inquiries and assistance, feel free to contact our team:
+
+- **Email:** info@mountaintours.pk
+- **Phone:** +92-XXX-XXXXXXX
+- **Address:** [Your Company Address, City, Pakistan]
+
+We look forward to providing you with an unforgettable mountain adventure in Pakistan!
