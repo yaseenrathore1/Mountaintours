@@ -153,7 +153,7 @@ html,body{
 .is-sticky .header-area:after{
     position:absolute;
     content:'';
-    background: rgb(59, 55, 55);
+    background: rgb(59, 60, 63);
     height:100%;
     width:100%;
     top:0;
@@ -306,10 +306,10 @@ html,body{
     justify-content: center;
     align-items: center;
 	position: relative;
-	background: url(../../assets/images/home/banner.jpg)no-repeat;
+	background: url(../../assets/rent_service/images\ \(1\).jfif)no-repeat;
 	background-size: cover;
 	background-position: center;
-	min-height: 1000px;
+	min-height: 650px;
 }
 .about-us:before{
 	position: absolute;
@@ -362,11 +362,11 @@ html,body{
     text-transform: uppercase;
     border-radius: 5px;
     box-shadow: 0 5px 20px rgba(14,15,18,.2);
-    -webkit-transition: 0.5s ease-in-out;
-    -moz-transition: 0.5s ease-in-out;
-    -ms-transition: 0.5s ease-in-out;
-    -o-transition: 0.5s ease-in-out;
-    transition: 0.5s ease-in-out;
+  
+}
+
+.about-us-txt{
+    padding-top: 300px;
 }
 .about-btn:hover .about-view{
     color: #fff;
@@ -1558,3 +1558,5 @@ html,body{
 
 
 /*========================Thank you=================*/
+
+
