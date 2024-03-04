@@ -123,6 +123,68 @@ html,body{
 
 
 
+
+  .carousel-container {
+             /* Set your desired width */
+            position: absolute;
+            top: 3%;
+            left: 70%;
+          
+        }
+
+
+        .carousel-inner ,h3{
+            color: #3fd1f8;
+            padding-top: 2px;
+            
+        }
+        .carousel-inner ,.icon {
+            width: 200px;
+            height: auto;
+            margin-left:38px; 
+        }
+        .carousel-inner  {
+            width: 300px;
+            border-radius: 5px;
+            height: auto;
+            text-align: center;
+            
+        }
+
+
+        .carousel-control.left,
+        .carousel-control.right {
+            background-image: none; 
+            filter: none;
+            
+             
+        }
+        @media screen and (max-width: 767px) {
+            .carousel-container {
+                position: absolute;
+                left: 0;
+                right: 0;
+                margin: 3% auto; /* Adjust as needed for centering */
+                margin-left: 3%; /* Adjust as needed for centering */
+            }
+        
+            .carousel-inner, .icon {
+                width: 65%; 
+                margin-left:60px; 
+            }
+            
+        .carousel-control.left,
+        .carousel-control.right {
+            background-image: none; 
+            filter: none;
+            display: none;
+            
+             
+        }
+        }
+
+
+
 /*=============Style css=========*/
 
 /*-------------------------------------
@@ -332,7 +394,7 @@ html,body{
 	max-width: 800px;
 	font-weight: 600;
 	line-height: 1.22;
-    font-family: 'Courier New', Courier, monospace;
+    
 }
 .about-us h2 span{
 	color:#2bdab5;
@@ -1080,7 +1142,7 @@ html,body{
     left:0;
     width: 100%;
     height: 100%;
-    background: rgba(0,216,255,.6);
+    background: rgb(33, 34, 34);
     z-index: -1;
 }
 

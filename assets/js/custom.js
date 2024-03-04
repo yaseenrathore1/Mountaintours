@@ -60,7 +60,7 @@ $(document).ready(function(){
         $( "#slider-range" ).slider({
             range: true,
             min: 0,
-            max: 12000,
+            max: 120000,
             values: [ 2677, 9241 ],
             slide: function( event, ui ) {
             $( "#amount" ).val( "PKR" + ui.values[ 0 ] + " - PKR" + ui.values[ 1 ] );
